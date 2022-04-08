@@ -24,7 +24,8 @@ main p strong {}
 main button {
 padding:20px;
 border:none;
-
+font-size: 20px;
+font-family: Arial;
 }
 main section {
     background-color: white;
