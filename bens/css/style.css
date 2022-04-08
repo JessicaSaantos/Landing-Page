@@ -21,7 +21,11 @@ font-size: 40px;
 font-family: Arial;
 }
 main p strong {}
-main button {}
+main button {
+padding:20px;
+border:none;
+
+}
 main section {
     background-color: white;
 }
