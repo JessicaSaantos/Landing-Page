@@ -27,11 +27,15 @@ main section h2{}
 main section ul {
     display: flex;
 }
-main section ul li {}
+main section ul li {
+margin-left:10px;
+}
 main section ul li img {
     width: 110px;
 }
-main section ul li p {}
+main section ul li p {
+font-size: 30px;
+}
 main section ul li span {} 
 
 footer {}
