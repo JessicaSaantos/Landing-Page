@@ -15,7 +15,11 @@ header {
 header figure img {}
 
 main{}
-main p {}
+main p { 
+color: white;
+font-size: 40px;
+font-family: Arial;
+}
 main p strong {}
 main button {}
 main section {
@@ -36,7 +40,9 @@ main section ul li img {
 main section ul li p {
 font-size: 30px;
 }
-main section ul li span {} 
+main section ul li span {
+font-size: 25px;
+} 
 
 footer {}
 
