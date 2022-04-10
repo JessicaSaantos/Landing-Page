@@ -50,6 +50,7 @@ main .btn1 {
     font-weight: 600;
     background-color: white;
     border-radius: 30px;
+    cursor: pointer;
 }
 main button {
 padding:20px;
