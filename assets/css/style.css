@@ -39,11 +39,17 @@ margin: 0 40%;
 }
 main section {
     background-color: white;
-    padding: 60px 70px;
+    padding: 0px 70px  60px ;
     margin-top: 50px;
 }
 main section h1{}
-main section h2{}
+main section h2{
+    text-align: center;
+    font-family: arial;
+    font-weight: 900;
+    font-size: 30px;
+    padding: 20px 0px;
+}
 main section ul {
     display: flex;
     align-items: center;
@@ -56,9 +62,6 @@ height: 211px;
 }
 main section ul li img {
     width: 150px;
-}
-main section ul li p {
-font-size: 30px;
 }
 main section ul li .txt {
     font-size: 14px;
