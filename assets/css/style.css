@@ -7,12 +7,12 @@ body {
     background-image: url("../img/Design.png");
     background-repeat: no-repeat;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 900px;
     background-size: 100% 105%;
 }
 
 header {
-    width: 1200px;
+    width: 900px;
     background-color: rgba(49, 49, 49, 0.726);
     padding: 15px;
     position: fixed;
@@ -27,7 +27,6 @@ color: white;
 font-size: 40px;
 font-family: Arial;
 text-align: center;
-margin: 20px;
 }
 main p strong {}
 main button {
@@ -40,35 +39,37 @@ margin: 0 40%;
 }
 main section {
     background-color: white;
-    padding: 60px 15px;
+    padding: 60px 70px;
     margin-top: 50px;
-}
-}
 }
 main section h1{}
 main section h2{}
 main section ul {
     display: flex;
     align-items: center;
-    margin: 0 54px;
 }
 main section ul li {
 margin-left:10px;
 text-align: center;
+width: 210px;
+height: 211px;
 }
 main section ul li img {
-    width: 110px;
+    width: 150px;
 }
 main section ul li p {
 font-size: 30px;
 }
 main section ul li .txt {
-    font-size: 15px;
+    font-size: 14px;
     color: black;
-    margin: 10px;
+    font-weight: 900;
+    margin: 10px 0;
 }
 main section ul li span {
-font-size: 25px;
+font-size: 12px;
+color: #828282;
+font-family: Arial, Helvetica, sans-serif;
 } 
 
 footer {}
