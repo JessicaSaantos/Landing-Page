@@ -4,7 +4,7 @@ body {
 }
 .container{
     padding-top: 60px;
-    background-image: url("../img/desing.png");
+    background-image: url("../img/Design.png");
     background-repeat: no-repeat;
     margin: 0 auto;
     max-width: 1200px;
@@ -21,6 +21,7 @@ header {
 header figure img {}
 
 main{}
+main .p1{}
 main p { 
 color: white;
 font-size: 40px;
