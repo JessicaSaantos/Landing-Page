@@ -3,7 +3,7 @@ body {
     background-color: rgba(142, 5, 101, 0.235);
 }
 .container{
-    padding-top: 60px;
+    padding-top: 70px;
     background-image: url("../img/Design.png");
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -14,11 +14,14 @@ body {
 header {
     width: 900px;
     background-color: rgba(49, 49, 49, 0.726);
-    padding: 15px;
+    padding: 5px;
     position: fixed;
     top: 0;
 }
-header figure img {}
+header figure img {
+    width: 55px;
+    margin: 0px 80px;
+}
 
 main{}
 main .p1{
