@@ -21,14 +21,36 @@ header {
 header figure img {}
 
 main{}
-main .p1{}
+main .p1{
+    font-size: 22px;
+    font-weight: bold;
+    margin: 15px 0 10px;
+}
+main .p2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 22px 0;
+}
 main p { 
 color: white;
 font-size: 40px;
 font-family: Arial;
 text-align: center;
 }
-main p strong {}
+main p strong {
+    font-size: 55px;
+    font-weight: 800;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+main .btn1 {
+    margin: 25px 36%;
+    padding: 14px 49px;
+    font-size: 18px;
+    color: #f370ac;
+    font-weight: 600;
+    background-color: white;
+    border-radius: 30px;
+}
 main button {
 padding:20px;
 border:none;
@@ -75,6 +97,10 @@ color: #828282;
 font-family: Arial, Helvetica, sans-serif;
 } 
 
-footer {}
+footer {
+    background-color: black;
+    width: 900px;
+    height: 60px;
+}
 
 
