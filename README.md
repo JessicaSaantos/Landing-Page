@@ -53,6 +53,7 @@ Objetivo principal do projeto está finalizado.
 
 ![img](https://user-images.githubusercontent.com/98659450/163252244-f67aa387-2a2d-46ed-a914-7c23bae55b9e.png)
 
-
+***
+![Animação](https://user-images.githubusercontent.com/98659450/163254018-9d29e040-e2bf-4e68-82d3-b232c8c838ab.gif)
 
 
