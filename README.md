@@ -3,14 +3,13 @@
 ***
 <div align="center">
 
- [![](https://img.shields.io/badge/🔗-Sobre-pink)](#Descrição) • [![](https://img.shields.io/badge/🔗-Tecnologias%20Utilizadas-pink)](#Tecnologias-Utilizadas) • [![](https://img.shields.io/badge/🔗-Objetivos-pink)](#Aprendizados) • [![](https://img.shields.io/badge/🔗-O%20Projeto-pink)](#O-Projeto) •  
- [![](https://img.shields.io/badge/🔗-Status-pink)](#Status-do-Projeto) • [![](https://img.shields.io/badge/🔗-Demonstração-pink)](#Demonstração)
+ [![](https://img.shields.io/badge/🔗-Sobre-pink)](#Descrição) • [![](https://img.shields.io/badge/🔗-Objetivos-pink)](#Aprendizados) • [![](https://img.shields.io/badge/🔗-Demonstração-pink)](#Demonstração)
 </div>
 
 # Music-On
 
 ***
-![GitHub](https://img.shields.io/github/license/JessicaSaantos/Landing-Page?style=plastic)
+[![GitHub](https://img.shields.io/github/license/JessicaSaantos/Landing-Page?style=plastic)](https://github.com/JessicaSaantos/Landing-Page/blob/main/LICENSE)
  ## Descrição:
   **🔗Projeto Music-On:**  Landing Page simples com o objetivo de vender o acesso premium de um app com serviço streaming de música, podcast e vídeo..    
 
