@@ -10,7 +10,7 @@
 # Music-On
 
 ***
-[![GitHub](https://img.shields.io/github/license/JessicaSaantos/Landing-Page)](https://img.shields.io/github/license/JessicaSaantos/Landing-Page)
+![GitHub](https://img.shields.io/github/license/JessicaSaantos/Landing-Page?style=plastic)
  ## Descrição:
   **🔗Projeto Music-On:**  Landing Page simples com o objetivo de vender o acesso premium de um app com serviço streaming de música, podcast e vídeo..    
 
